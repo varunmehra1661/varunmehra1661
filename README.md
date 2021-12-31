@@ -3,7 +3,7 @@
   <img src="https://github.com/AdityaKarn/adityakarn/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <img height="50" alt="My Name is Aditya and I like Programming" src="https://raw.githubusercontent.com/AdityaKarn/adityakarn/master/images/personal_note.svg" />
+  <img height="50" alt="My Name is Varun Mehra and I like Programming" src="https://raw.githubusercontent.com/AdityaKarn/adityakarn/master/images/personal_note.svg" />
   <br />
   <br />
 
