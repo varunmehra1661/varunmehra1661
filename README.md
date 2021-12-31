@@ -1,7 +1,7 @@
 <!-- "Hero" Header -->
 <div align="center">
   <!-- <img src="https:/varunmehra1661/github.com/varunmehra1661/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" /> -->
-  <img src="C:\Users\Varun Mehra\OneDrive\Desktop\UPLOAD\varunmehra1661\images\welcome.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <img src="https://github.com/varunmehra1661/varunmehra1661/blob/master/images/welcome.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
   <img height="50" alt="My Name is Varun Mehra and I like Programming" src="https://raw.githubusercontent.com/varunmehra1661/varunmehra1661/master/images/personal_note.svg" />
