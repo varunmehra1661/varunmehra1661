@@ -13,8 +13,8 @@
 <table width="100%">
 <tr>
 <td align="center">
-<a href="https://www.varunmehra.me">
-<strong>Visit my personal website </strong>
+<!-- <a href="https://www.varunmehra.me"> -->
+<strong>Visit my personal website soon</strong>
 <br />
 <br />
 
